@@ -69,11 +69,6 @@ PaySharp.Qpay	| [![NuGet](https://img.shields.io/nuget/v/PaySharp.Qpay.svg)](htt
 
 见[Demo](https://github.com/Varorbc/PaySharp/tree/master/sample/PaySharp.Demo)
 
-# 交流讨论
----
-
-[![加入QQ群](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=5d2538328d53d0610188d9dc4a62a7b51e50fe56ad1b35ca9e96308507eb09a7)
-
 # Wiki
 ---
 
@@ -92,21 +87,3 @@ https://open.unionpay.com/ajweb/product
 QQ钱包支付文档：
 
 https://qpay.qq.com/qpaywiki.shtml
-
-# 支持/打赏
-
-<p align="center">
-    <img src="https://github.com/Varorbc/PaySharp/raw/master/reward.jpg">
-    <p align="center">打赏扫这里，请留下尊姓大名</p>
-</p>
-
-# 致谢
----
-
-[hiihellox10](https://github.com/hiihellox10)
-
-[John0King](https://github.com/John0King)
-
-[stulzq](https://github.com/stulzq)
-
-[EssenRoc](https://github.com/EssenRoc)
